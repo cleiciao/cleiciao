@@ -21,7 +21,7 @@
    <img alt="Proxmox" src="https://img.shields.io/badge/proxmox-%230db7ed.svg?style=for-the-badge&logo=proxmox&logoColor=orange"/> - 
    <img alt="Vmware" src="https://img.shields.io/badge/vmware-%230db7ed.svg?style=for-the-badge&logo=vmware&logoColor=green"/>
 </div>
-
+ </br> </br>
 
 💻 Minhas redes sociais
 
