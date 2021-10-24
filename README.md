@@ -18,7 +18,7 @@
   <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/> - 
   <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/> - 
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> - 
-   <img alt="Proxmox" src="https://img.shields.io/badge/proxmox-%230db7ed.svg?style=for-the-badge&logo=proxmox&logoColor=white"/> - 
+   <img alt="Proxmox" src="https://img.shields.io/badge/proxmox-%230db7ed.svg?style=for-the-badge&logo=proxmox&logoColor=orange"/> - 
    <img alt="Vmware" src="https://img.shields.io/badge/vmware-%230db7ed.svg?style=for-the-badge&logo=vmware&logoColor=white"/>
 </div>
 
