@@ -1,4 +1,4 @@
-# :penguin:  Cleiciao Diego Moro
+# :penguin:  Cleicião Diego Moro
 😎 Trabalho como analista de infraestrutura.</br>
 📗 Estudante de redes de computadores.</br>
 📃 Estudando Linguagens SHELL SCRIPT e PYTHON.</br>
