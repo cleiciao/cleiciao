@@ -21,7 +21,8 @@
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> - 
    <img alt="Proxmox" src="https://img.shields.io/badge/proxmox-%230db7ed.svg?style=for-the-badge&logo=proxmox&logoColor=orange"/> - 
    <img alt="Vmware" src="https://img.shields.io/badge/vmware-%230db7ed.svg?style=for-the-badge&logo=vmware&logoColor=green"/> - 
-   <img alt="VeeamBackup" src="https://img.shields.io/badge/VEEAM_BACKUP-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+   <img alt="VeeamBackup" src="https://img.shields.io/badge/VEEAM_BACKUP-%2311AB00.svg?style=for-the-badge&logo=veeam&logoColor=white"/>
+   <img alt="Zabbix" src="https://img.shields.io/badge/ZABBIX-%2311AB00.svg?style=for-the-badge&logo=zabbix&logoColor=white"/>
    
 </div>
  </br> </br>
