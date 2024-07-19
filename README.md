@@ -1,5 +1,5 @@
 # :penguin:  Cleicião Diego Moro
-😎 Trabalho como analista de infraestrutura.</br>
+😎 Trabalho como analista de infraestrutura/sysadmin.</br>
 📗 Estudante de redes de computadores.</br>
 📃 Estudando Linguagens SHELL SCRIPT e PYTHON.</br>
 😊 Entusiasta Linux
